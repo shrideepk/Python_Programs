@@ -2,13 +2,13 @@
 
 # Solution :
 
-# Formul for area of circle is = pi*r**2. Here pi = 3.14159 is a contant value in mathematics and r = radius of circle
+# Formula for area of circle is = pi*r**2. Here pi = 3.14159 is a constant value in mathematics and r = radius of circle
 
 # Import math module for constant value of pi.
 
 import math
 
-# Promt the user to input the value of radius and conver it into float()
+# Promt the user to input the value of radius and convert it into float()
 
 radius = float(input("Enter radius value :"))
 
