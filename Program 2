@@ -1,0 +1,12 @@
+#Write a program for Area of a Rectangle.
+
+# In this program we will take the length and width as input from the user.
+length = float(input("Enter the length :"))
+width = float (input("Enter the width : "))
+
+# Now calculate the Area by converting the input as floating value.
+# Formula for Rectangle is : length*width
+area = float(length*width)
+
+# Now print the area by using Print Keyword.
+print(f"The area of the Rectangle is :{area}")
